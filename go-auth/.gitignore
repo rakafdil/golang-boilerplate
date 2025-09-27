@@ -1,0 +1,24 @@
+# Environment files
+.env
+.env.local
+
+# Dependency directories
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Build output
+*.exe
+*.out
+*.log
+
+# Go build cache
+/go.sum
+/go.mod
